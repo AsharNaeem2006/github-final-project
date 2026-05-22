@@ -28,6 +28,9 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 ## Scope
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at team@example.com. All complaints will be reviewed and investigated promptly and fairly.
+
 ## Enforcement Guidelines
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
